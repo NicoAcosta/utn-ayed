@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1380809912 source:c:\punteros\punterosencpp\main.cpp
+	<iostream>
+
+1409397521 source:d:\clases 2014\ayed2014\punteros\punterosencpp\main.cpp
+	<iostream>
+
+1409409492 source:d:\ayed2014\punteros\punterosencpp\main.cpp
+	<iostream>
+
+1443277401 source:g:\docencia y maestría\docencia\2015\ayed 2015\punteros\1 punterosencpp\main.cpp
+	<iostream>
+
+1444307412 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\1 punterosencpp\main.cpp
+	<iostream>
+
+1470321193 source:d:\2016\ayed\punteros y estructuras dinamicas\1 punterosencpp\main.cpp
+	<iostream>
+
+1470321193 source:f:\2016\ayed\punteros y estructuras dinamicas\1 punterosencpp\main.cpp
+	<iostream>
+
+1470321193 source:e:\2016\ayed\punteros y estructuras dinamicas\1 punterosencpp\main.cpp
+	<iostream>
+
+1474138842 source:d:\algoritmos 2017\punteros y estructuras dinamicas\1 punterosencpp\main.cpp
+	<iostream>
+
+1534620772 source:e:\2019 ayed\punteros y estructuras dinamicas\1 punterosencpp\main.cpp
+	<iostream>
+	<conio.h>
+

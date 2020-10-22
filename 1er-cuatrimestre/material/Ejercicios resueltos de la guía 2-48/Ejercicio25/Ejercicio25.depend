@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1430561886 source:c:\users\pablo\desktop\ejercicio25\main.cpp
+	<iostream>
+	<conio.h>
+
+1430996306 source:f:\ejercicio25\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<conio.h>
+
+1430996602 source:c:\users\msi\desktop\ayed 2015\ejercitacion\ejercicio25\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1415315370 source:e:\ayed2014\punteros\6 corte de control y apareo de listas\apareo\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1415314804 e:\ayed2014\punteros\6 corte de control y apareo de listas\apareo\listasse.h
+	<iostream>
+
+1415315864 source:e:\ayed2014\punteros\6 corte de control y apareo de listas\apareo\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	"listasSE.h"
+
+1443265249 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\6 corte de control y apareo de listas\apareo\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1443265249 d:\docencia y maestría\docencia\2015\ayed 2015\punteros\6 corte de control y apareo de listas\apareo\listasse.h
+	<iostream>
+
+1446313575 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\6 corte de control y apareo de listas\apareo\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	"listasSE.h"
+

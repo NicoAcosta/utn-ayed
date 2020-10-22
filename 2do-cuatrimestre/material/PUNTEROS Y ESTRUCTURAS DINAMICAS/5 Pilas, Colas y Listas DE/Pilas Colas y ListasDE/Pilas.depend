@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1414869706 source:d:\ayed2014\punteros\5 pilas\pilas\main.cpp
+	<iostream>
+	<conio.h>
+	"pilas.h"
+	"colas.h"
+	"listasDE.h"
+
+1414866972 d:\ayed2014\punteros\5 pilas\pilas\pilas.h
+	"listasSE.h"
+
+1414864836 source:d:\ayed2014\punteros\5 pilas\pilas\pilas.cpp
+	"pilas.h"
+
+1414849788 d:\ayed2014\punteros\5 pilas\pilas\listasse.h
+	<iostream>
+
+1414844772 source:d:\ayed2014\punteros\5 pilas\pilas\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1414849722 source:d:\ayed2014\punteros\5 pilas\pilas\colas.cpp
+	"colas.h"
+
+1414849722 d:\ayed2014\punteros\5 pilas\pilas\colas.h
+	"listasSE.h"
+
+1414869886 source:d:\ayed2014\punteros\5 pilas\pilas\listasde.cpp
+	"listasDE.h"
+	<iostream>
+
+1414867164 d:\ayed2014\punteros\5 pilas\pilas\listasde.h
+	<iostream>
+
+1414849722 source:d:\ayed2014\punteros\5 pilas\pilas colas y listasde\colas.cpp
+	"colas.h"
+
+1414849722 d:\ayed2014\punteros\5 pilas\pilas colas y listasde\colas.h
+	"listasSE.h"
+
+1414849788 d:\ayed2014\punteros\5 pilas\pilas colas y listasde\listasse.h
+	<iostream>
+
+1414869886 source:d:\ayed2014\punteros\5 pilas\pilas colas y listasde\listasde.cpp
+	"listasDE.h"
+	<iostream>
+
+1414867164 d:\ayed2014\punteros\5 pilas\pilas colas y listasde\listasde.h
+	<iostream>
+
+1414844772 source:d:\ayed2014\punteros\5 pilas\pilas colas y listasde\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1414870710 source:d:\ayed2014\punteros\5 pilas\pilas colas y listasde\main.cpp
+	<iostream>
+	<conio.h>
+	"pilas.h"
+	"colas.h"
+	"listasDE.h"
+
+1414866972 d:\ayed2014\punteros\5 pilas\pilas colas y listasde\pilas.h
+	"listasSE.h"
+
+1414864836 source:d:\ayed2014\punteros\5 pilas\pilas colas y listasde\pilas.cpp
+	"pilas.h"
+
+1443265248 source:e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\colas.cpp
+	"colas.h"
+
+1443265248 e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\colas.h
+	"listasSE.h"
+
+1443265248 e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\listasse.h
+	<iostream>
+
+1443265248 source:e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\listasde.cpp
+	"listasDE.h"
+	<iostream>
+
+1443265248 e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\listasde.h
+	<iostream>
+
+1443265248 source:e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1443265248 source:e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\pilas.cpp
+	"pilas.h"
+
+1443265248 e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\pilas.h
+	"listasSE.h"
+
+1477335753 source:e:\2016\ayed\punteros y estructuras dinamicas\5 pilas, colas y listas de\pilas colas y listasde\main.cpp
+	<iostream>
+	<conio.h>
+	"pilas.h"
+	"colas.h"
+	"listasDE.h"
+

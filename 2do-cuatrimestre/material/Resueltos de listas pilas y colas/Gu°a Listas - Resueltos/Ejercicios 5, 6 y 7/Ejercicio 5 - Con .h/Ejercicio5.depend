@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1411679181 source:c:\users\pablo\desktop\ejercicio5 - copy\listaalumnos.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+
+1411679181 c:\users\pablo\desktop\ejercicio5 - copy\listaalumnos.h
+
+1411679031 source:c:\users\pablo\desktop\ejercicio5 - copy\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+
+1443265250 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros y estructuras dinamicas\ejercicios\ejercicios 5, 6 y 7\ejercicio 5 - con .h\listaalumnos.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+
+1443265250 d:\docencia y maestría\docencia\2015\ayed 2015\punteros y estructuras dinamicas\ejercicios\ejercicios 5, 6 y 7\ejercicio 5 - con .h\listaalumnos.h
+
+1447330974 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros y estructuras dinamicas\ejercicios\ejercicios 5, 6 y 7\ejercicio 5 - con .h\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+	"listaAlumnos.h"
+

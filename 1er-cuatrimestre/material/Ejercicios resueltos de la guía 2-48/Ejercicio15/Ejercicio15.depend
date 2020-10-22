@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524940708 source:d:\algoritmos y estructuras de datos (2018)\ejercicio15\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

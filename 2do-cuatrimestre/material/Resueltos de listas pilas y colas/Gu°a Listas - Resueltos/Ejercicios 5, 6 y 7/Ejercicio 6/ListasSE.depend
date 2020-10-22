@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1383254930 source:c:\users\pablo\desktop\plc\listasse\main.cpp
+	<iostream>
+	<conio.h>
+
+1383819095 source:e:\docencia\utn ayed\listasse\listasse\main.cpp
+	<iostream>
+	<conio.h>
+
+1409997410 source:e:\ayed2014\punteros\listasse\main.cpp
+	<iostream>
+	<conio.h>
+
+1410008534 source:d:\ayed2014\punteros\listasse\main.cpp
+	<iostream>
+	<conio.h>
+
+1411678152 source:d:\ayed2014\punteros\ejercicios5y6\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+
+1412453292 source:e:\ayed2014\punteros\ejercicios5y6\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+
+1412886172 source:f:\ayed2014\punteros\ejercicios 4, 5 y 6\ejercicio 5\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+
+1443265249 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros y estructuras dinamicas\ejercicios\ejercicios 5, 6 y 7\ejercicio 6\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<cstring>
+

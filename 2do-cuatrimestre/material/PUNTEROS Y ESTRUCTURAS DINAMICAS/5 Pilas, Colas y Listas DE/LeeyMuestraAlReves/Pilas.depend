@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1414844772 source:d:\ayed2014\punteros\5 pilas\leeymuestraalreves\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1414868190 d:\ayed2014\punteros\5 pilas\leeymuestraalreves\listasse.h
+	<iostream>
+
+1414864836 source:d:\ayed2014\punteros\5 pilas\leeymuestraalreves\pilas.cpp
+	"pilas.h"
+
+1414866972 d:\ayed2014\punteros\5 pilas\leeymuestraalreves\pilas.h
+	"listasSE.h"
+
+1414870938 source:d:\ayed2014\punteros\5 pilas\leeymuestraalreves\main.cpp
+	<iostream>
+	<conio.h>
+	"pilas.h"
+
+1414844772 source:e:\ayed2014\punteros\5 pilas, colas y listas de\leeymuestraalreves\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1414868190 e:\ayed2014\punteros\5 pilas, colas y listas de\leeymuestraalreves\listasse.h
+	<iostream>
+
+1414871308 source:e:\ayed2014\punteros\5 pilas, colas y listas de\leeymuestraalreves\main.cpp
+	<iostream>
+	<conio.h>
+	"pilas.h"
+
+1414866972 e:\ayed2014\punteros\5 pilas, colas y listas de\leeymuestraalreves\pilas.h
+	"listasSE.h"
+
+1414864836 source:e:\ayed2014\punteros\5 pilas, colas y listas de\leeymuestraalreves\pilas.cpp
+	"pilas.h"
+
+1443265248 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\leeymuestraalreves\listasse.cpp
+	"listasSE.h"
+	<iostream>
+
+1443265248 d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\leeymuestraalreves\listasse.h
+	<iostream>
+
+1443265248 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\leeymuestraalreves\main.cpp
+	<iostream>
+	<conio.h>
+	"pilas.h"
+
+1443265248 d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\leeymuestraalreves\pilas.h
+	"listasSE.h"
+
+1443265248 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\leeymuestraalreves\pilas.cpp
+	"pilas.h"
+

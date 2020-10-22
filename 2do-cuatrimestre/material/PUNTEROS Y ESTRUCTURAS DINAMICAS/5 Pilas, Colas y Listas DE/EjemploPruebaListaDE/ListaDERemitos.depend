@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1445711626 source:c:\users\msi\desktop\listaderemitos\listasde.cpp
+	"listasDE.h"
+	<iostream>
+
+1443265248 c:\users\msi\desktop\listaderemitos\listasde.h
+	<iostream>
+
+1445711523 source:c:\users\msi\desktop\listaderemitos\main.cpp
+	<iostream>
+	"listasDE.h"
+
+1445711626 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\ejemplopruebalistade\listasde.cpp
+	"listasDE.h"
+	<iostream>
+
+1443265248 d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\ejemplopruebalistade\listasde.h
+	<iostream>
+
+1445712220 source:d:\docencia y maestría\docencia\2015\ayed 2015\punteros\5 pilas, colas y listas de\ejemplopruebalistade\main.cpp
+	<iostream>
+	<conio.h>
+	"listasDE.h"
+
